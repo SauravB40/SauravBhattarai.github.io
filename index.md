@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "Saurav Bhattarai is a dedicated Chemical and Biomolecular Engineering Student with a passion for exploring the intersection of engineering and medicine. His passion revolves around 3D printing, Biomedical Engineering research, devlopment of medical device, and helping others."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
+  - image_path: /assets/img/Syringe Pump Github.JPG
     alt: "CNC Mill"
     title: "Motorized Syringe Pump"
     excerpt: "Built for percise yet inexpensive method of fluid delivery for a medical setting."
