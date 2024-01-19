@@ -60,6 +60,7 @@ gallery:
 
 
 * Parts
+
 | Name     | Character |
 | ---      | ---       |
 | Backtick | `         |
