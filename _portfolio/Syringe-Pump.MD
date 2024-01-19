@@ -14,6 +14,12 @@ gallery:
     image_path: /assets/img/Syringe Pump Controls.png
   - url: /assets/img/Syringe Pump Wiring.png
     image_path: /assets/img/Syringe Pump Wiring.png
+
+* Parts Used
+| Command | Description |
+| --- | --- |
+| `git status` | List all new or modified files |
+| `git diff` | Show file differences that haven't been staged |
 ---
 
 # Discription
@@ -40,11 +46,6 @@ gallery:
 
 # To Recreate the Syringe Pump
 * [Arduino Code](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
-* Parts Used
-| Command | Description |
-| --- | --- |
-| `git status` | List all new or modified files |
-| `git diff` | Show file differences that haven't been staged |
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
