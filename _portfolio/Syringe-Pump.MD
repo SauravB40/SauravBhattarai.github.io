@@ -44,7 +44,7 @@ gallery:
 * Parts
   | Name     | Character |
   | ---      | ---       |
-  | [250 mm lead screw with 2 mm pitch and 2 mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1_encoding=UTF8&psc=1)| `         |
+  | [250 mm lead screw with 2 mm pitch and 9 mm lead](https://amzn.to/3infwI0)| `         |
   | [1/4" x 8mm Flexible Coupling](https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/) | \|        |
   | [200 mm linear rod with 8 mm diameter](https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3) | \|        |
   | [LM8UU Linear bearing for 8 mm diameter rod](https://www.amazon.com/gp/product/B087WPGQ8T/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1) | \|        |
