@@ -42,9 +42,9 @@ gallery:
 # Recreating the Syringe Pump
 * [Arduino Code for the Syringe Pump](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
 * Parts
-  | Name     | Character |
+  | Name     | Quantity |
   | ---      | ---       |
-  | [250 mm lead screw with 2 mm pitch and 9 mm lead](https://amzn.to/3infwI0)| `         |
+  | [250 mm lead screw with 2 mm pitch and 9 mm lead](https://amzn.to/3infwI0)| 1         |
   | [1/4" x 8mm Flexible Coupling](https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/) | \|        |
   | [200 mm linear rod with 8 mm diameter](https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3) | \|        |
   | [LM8UU Linear bearing for 8 mm diameter rod](https://www.amazon.com/gp/product/B087WPGQ8T/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1) | \|        |
