@@ -42,12 +42,10 @@ gallery:
 # Recreating the Syringe Pump
 * [Arduino Code for the Syringe Pump](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
 * Parts
-
-
-| Name     | Character |
-| ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
+  | Name     | Character |
+  | ---      | ---       |
+  | Backtick | `         |
+  | Pipe     | \|        |
 
 
 
