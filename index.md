@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Saurav Bhattarai is a dedicated Chemical and Biomolecular Engineering Student with a passion for exploring the intersection of engineering and medicine. His passion revolves around 3D printing, Biomedical Engineering research, devlopment of medical device, and helping others."
+excerpt: "Saurav Bhattarai is a dedicated Chemical and Biomolecular Engineering student with a passion for exploring the intersection of engineering and medicine. His interests revolve around 3D printing, biomedical engineering research, development of medical devices, and helping others."
 feature_row:
   - image_path: /assets/img/Syringe Pump Github.JPG
     alt: "CNC Mill"
