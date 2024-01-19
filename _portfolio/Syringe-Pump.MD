@@ -58,6 +58,7 @@ gallery:
   | Panel Mount Latching Push Buttons | \|        |
   | Limit Switch | \|        |
   | RGB Common Cathode LED | \|        |
+  |[Arduino Code for the Syringe Pump](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)| \|        |
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
