@@ -2,8 +2,8 @@
 title: "Motorized Syringe Pump"
 excerpt: "DIY Syringe Pump capable of adjustbale and percise disposal of fluids at various Flow Rates."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/Syringe Pump Github.JPG
+  teaser: /assets/img/Syringe Pump Github.JPG
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
