@@ -38,8 +38,13 @@ gallery:
   1. Hit third button for forward movement
   2. Hit fourth button for backwards movement
 
-# Code to Syringe Pumo
+# To Recreate the Syringe Pump
 * [Arduino Code](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
+* Parts Used
+| Command | Description |
+| --- | --- |
+| `git status` | List all new or modified files |
+| `git diff` | Show file differences that haven't been staged |
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
