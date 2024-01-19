@@ -25,7 +25,7 @@ gallery:
 
 # Operating Instructions
 
-* Autoamtic Use
+* Automatic Use
   1. Extend the carriage
   2.  Simultaneously, lower the full syringe while adjusting the distance of the Flange Holder (carriage) to fit
   3. Slowly lower the syringe to fit into the Flange Holder, make sure plunger is inserted into the Plunger Holder 
