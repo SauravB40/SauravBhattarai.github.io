@@ -43,7 +43,7 @@ gallery:
 * [Arduino Code for the Syringe Pump](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
 * Parts
 
-  | Name     | Quantity |
+  | Item     | Quantity |
   | ---      | ---       |
   | [250 mm lead screw with 2 mm pitch and 9 mm lead](https://amzn.to/3infwI0)| 1         |
   | [1/4" x 8mm Flexible Coupling](https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/) | 1        |
@@ -61,14 +61,14 @@ gallery:
   | [Motor Mounting Plate](https://a360.co/3Ubg6cP) | 1        |
   | [Carriage](https://a360.co/3vGrQtR) | 1        |
   | [End Supports](https://a360.co/3HofuZM) | 2       |
-  | [Lock Collar Lead Screw](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 2        |
-  | [Lock Collar Linear Rod](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 2        |
-  | [M3x8mm-Thread-Forming Screws](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 4        |
-  | [Nut-tr8x8](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 1        |
-  | [M5x8mm-Bolt](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 6        |
-  | [M5 Tee-Nut](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 6        |
-  | [M3x10mm-Bolt](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 6        |
-  | [F688ZZ-Flanged Bearing](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 2        |
+  | [Lock Collar Lead Screw](https://a360.co/48DdRDr) | 2        |
+  | [Lock Collar Linear Rod](https://a360.co/425uzc9) | 2        |
+  | [M3x8mm-Thread-Forming Screws](https://a360.co/3tStg3U) | 4        |
+  | [Nut-tr8x8](https://a360.co/3tR3Eo1) | 1        |
+  | [M5x8mm-Bolt](https://a360.co/4b3QGnl) | 6        |
+  | [M5 Tee-Nut](https://a360.co/48Ee2yh) | 6        |
+  | [M3x10mm-Bolt](https://a360.co/48Fypvc) | 6        |
+  | [F688ZZ-Flanged Bearing](https://a360.co/3S8CqRE) | 2        |
 
 
   
