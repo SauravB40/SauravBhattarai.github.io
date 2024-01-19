@@ -40,7 +40,7 @@ gallery:
   2. Hit fourth button for backwards movement
 
 # Recreating the Syringe Pump
-* [Arduino Code for the Syringe Pump] (https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
+* [Arduino Code for the Syringe Pump](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
 * Parts
   | Name     | Character |
   | ---      | ---       |
