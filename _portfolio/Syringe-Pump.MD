@@ -45,7 +45,7 @@ gallery:
   | Name     | Character |
   | ---      | ---       |
   | [250 mm lead screw with 2 mm pitch and 2 mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1_encoding=UTF8&psc=1)| `         |
-  | 1/4" x 8mm Flexible Coupling(https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/) | \|        |
+  | [1/4" x 8mm Flexible Coupling](https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/) | \|        |
   | 200 mm linear rod with 8 mm diameter | \|        |
   | LM8UU Linear bearing for 8 mm diameter rod | \|        |
   | 2040 Aluminum Extrusion 1' Length | \|        |
