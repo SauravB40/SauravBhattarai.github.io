@@ -40,11 +40,11 @@ gallery:
   2. Hit fourth button for backwards movement
 
 # Recreating the Syringe Pump
-* [Arduino Code for the Syringe Pump](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1)
+* [Arduino Code for the Syringe Pump] (https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
 * Parts
   | Name     | Character |
   | ---      | ---       |
-  | [250 mm lead screw with 2 mm pitch and 2 mm lead](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)| `         |
+  | [250 mm lead screw with 2 mm pitch and 2 mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1_encoding=UTF8&psc=1)| `         |
   | 1/4" x 8mm Flexible Coupling | \|        |
   | 200 mm linear rod with 8 mm diameter | \|        |
   | LM8UU Linear bearing for 8 mm diameter rod | \|        |
