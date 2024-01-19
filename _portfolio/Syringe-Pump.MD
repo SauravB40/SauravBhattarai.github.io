@@ -23,23 +23,20 @@ gallery:
 # CAD Model
 <iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
-
 
 # Operating Instructions
 
-* **Steps for Syringe Pump Operations** 
-  **Extend the carriage
-  **Simultaneously, lower the full syringe while adjusting the distance of the Flange Holder (carriage) to fit
-  **Slowly lower the syringe to fit into the Flange Holder, make sure plunger is inserted into the Plunger Holder 
-  **Double chek tip is resting in the Tip Support Groove
-  **Adjust desired flow rate suing dial or enter value in Program
-  **Automated Use
-  **Adjust desired flow rate 
-  **Hit Red Button with silver Casing
-  **Manual use
-  **Hit third button for forward movement
-  **Hit fourth button for backwards movement
+  *Extend the carriage
+  *Simultaneously, lower the full syringe while adjusting the distance of the Flange Holder (carriage) to fit
+  *Slowly lower the syringe to fit into the Flange Holder, make sure plunger is inserted into the Plunger Holder 
+  *Double chek tip is resting in the Tip Support Groove
+  *Adjust desired flow rate suing dial or enter value in Program
+  *Automated Use
+  *Adjust desired flow rate 
+  *Hit Red Button with silver Casing
+  *Manual use
+  *Hit third button for forward movement
+  *Hit fourth button for backwards movement
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
