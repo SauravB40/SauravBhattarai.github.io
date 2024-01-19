@@ -35,7 +35,7 @@ gallery:
   6. Automated Use
   7. Adjust desired flow rate 
   8. Hit Red Button with silver Casing
-* Manual use
+* Manual Use
   1. Hit third button for forward movement
   2. Hit fourth button for backwards movement
 
