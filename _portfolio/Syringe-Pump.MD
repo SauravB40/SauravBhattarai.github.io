@@ -15,11 +15,6 @@ gallery:
   - url: /assets/img/Syringe Pump Wiring.png
     image_path: /assets/img/Syringe Pump Wiring.png
 
-Parts Used
-| Command | Description |
-| --- | --- |
-| `git status` | List all new or modified files |
-| `git diff` | Show file differences that haven't been staged |
 ---
 
 # Discription
@@ -46,6 +41,13 @@ Parts Used
 
 # To Recreate the Syringe Pump
 * [Arduino Code](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
