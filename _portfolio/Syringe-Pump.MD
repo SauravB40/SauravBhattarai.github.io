@@ -16,11 +16,9 @@ gallery:
     image_path: /assets/img/Syringe Pump Wiring.png
 ---
 
-# Features
+# Discription
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+* **Design and Purpose** Syringe pumps are highly accurate and with continuous flow of liquid allwos for sterility. This pump only has a motor, lead screw, basic computer coding, and a housing, which leads to a simple design while being incredibly useful. However, even lower end syringe pums can cost thousadns of dollars, therfore custom fabrication is economcially advisable. With buttons tahta llwo for manual movment fo the pump as wella s continous movment with set dial, this pump can relaiably push fluids. this pump comes iwth auto shut off feature with light indicators that allows for ease of use. The pump has an output rate that is accuate within .1 uL. 
 
 # CAD Model
 <iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -28,9 +26,20 @@ gallery:
 {% include gallery caption="Large Format 3D Printer Gallery" %}
 
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
-
-
 # Operating Instructions
+
+* **Steps for Syringe Pump Operations** 
+  **Extend the carriage
+  **Simultaneously, lower the full syringe while adjusting the distance of the Flange Holder (carriage) to fit
+  **Slowly lower the syringe to fit into the Flange Holder, make sure plunger is inserted into the Plunger Holder 
+  **Double chek tip is resting in the Tip Support Groove
+  **Adjust desired flow rate suing dial or enter value in Program
+  **Automated Use
+  **Adjust desired flow rate 
+  **Hit Red Button with silver Casing
+  **Manual use
+  **Hit third button for forward movement
+  **Hit fourth button for backwards movement
+
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
