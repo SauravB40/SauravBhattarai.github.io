@@ -12,8 +12,8 @@ excerpt: "Saurav Bhattarai is a dedicated Chemical and Biomolecular Engineering 
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+    title: "Motorized Syringe Pump"
+    excerpt: "Built for percise yet inexpensive method of fluid delivery for a medical setting."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
     alt: "placeholder image 2"
     title: "DIY Plasma Cutter"
