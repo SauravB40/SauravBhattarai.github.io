@@ -14,13 +14,9 @@ feature_row:
     alt: "CNC Mill"
     title: "Motorized Syringe Pump"
     excerpt: "Built for percise yet inexpensive method of fluid delivery for a medical setting."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: /assets/img/TPU Iphone Case.jpg
+    title: "TPU iPhone 13 Case"
+    excerpt: "A iPhone 13 case that can withstand falls from Terminal Velocity."
 ---
 
 {% include feature_row %}
