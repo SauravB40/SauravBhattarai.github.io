@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Saurav bhattarai is a dedicated Chemical and Biomolecular Engineering Student with a passion for explorign the intersection of engineering and medicine. His passion revolves around 3D printing, Biomedical Engineering research, and helping others."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
