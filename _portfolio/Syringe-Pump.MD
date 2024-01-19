@@ -60,12 +60,6 @@ gallery:
   | [RGB Common Cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 1        |
 
 
-* Parts
-
-   | Name     | Character |
-   | ---      | ---       |
-   | Backtick | `         |
-   | Pipe     | \|        |
 
   
 
