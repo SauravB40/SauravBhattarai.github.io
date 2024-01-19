@@ -39,15 +39,15 @@ gallery:
   1. Hit third button for forward movement
   2. Hit fourth button for backwards movement
 
-# To Recreate the Syringe Pump
-* [Arduino Code](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
+# Recreating the Syringe Pump
+* [Arduino Code for the Syringe Pump](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
 * Parts
 
-**| Tables        | Are           | Cool  |
-  | ------------- |:-------------:| -----:|
-  | col 3 is      | right-aligned | $1600 |
-  | col 2 is      | centered      |   $12 |
-  | zebra stripes | are neat      |    $1 |
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
 
 
 
