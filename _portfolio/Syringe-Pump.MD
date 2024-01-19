@@ -61,10 +61,10 @@ gallery:
 
 * Parts
 
-| Name     | Character |
-| ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
+   | Name     | Character |
+   | ---      | ---       |
+   | Backtick | `         |
+   | Pipe     | \|        |
 
   
 
