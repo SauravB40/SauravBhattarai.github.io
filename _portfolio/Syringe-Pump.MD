@@ -42,6 +42,7 @@ gallery:
 # Recreating the Syringe Pump
 * [Arduino Code for the Syringe Pump](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
 * Parts
+
   | Name     | Quantity |
   | ---      | ---       |
   | [250 mm lead screw with 2 mm pitch and 9 mm lead](https://amzn.to/3infwI0)| 1         |
