@@ -39,7 +39,7 @@ gallery:
   2. Hit fourth button for backwards movement
 
 # Code to Syringe Pumo
-* Arudino Code
+* [Arduino Code](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
