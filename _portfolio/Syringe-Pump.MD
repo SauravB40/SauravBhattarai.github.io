@@ -44,7 +44,7 @@ gallery:
 * Parts
   | Name     | Character |
   | ---      | ---       |
-  | [Arduino Code for the Syringe Pump](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)| `         |
+  | [250 mm lead screw with 2 mm pitch and 2 mm lead](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)| `         |
   | 1/4" x 8mm Flexible Coupling | \|        |
   | 200 mm linear rod with 8 mm diameter | \|        |
   | LM8UU Linear bearing for 8 mm diameter rod | \|        |
