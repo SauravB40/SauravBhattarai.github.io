@@ -6,7 +6,7 @@ title: "About Saurav Bhattarai"
 
 ## About
 
-Saurav is an Engineering student specifically studying Chemical and Biomolecular Engineering at Vanderbilt University. He is intrigued by the cross section of Biotechnology, Medicine, Engineering, and Additive Manufacturing.  
+Saurav is an Engineering student specifically studying Chemical and Biomolecular Engineering at Vanderbilt University. He is intrigued by the cross section of biotechnology, medicine, engineering, and additive manufacturing.  
 
 ## Education
 
@@ -33,7 +33,8 @@ Saurav is well versed in many manufacturing and engineering areas and has eexper
 
 
 ## Awards
-VUSE Summmer Research 2023 Scholarship Recpient - Brunger Lab
+* VUSE Summmer Research 2023 Scholarship Recpient - Brunger Lab
+* VUSE 2023 Research Presentation 
 
 [Vanderbilt School of Engineering - VUSE](https://engineering.vanderbilt.edu/)
 
