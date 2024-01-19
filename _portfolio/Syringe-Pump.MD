@@ -25,7 +25,7 @@ gallery:
 
 # Operating Instructions
 
-  *Extend the carriage
+  *Extend the carriage*
   *Simultaneously, lower the full syringe while adjusting the distance of the Flange Holder (carriage) to fit*
   Slowly lower the syringe to fit into the Flange Holder, make sure plunger is inserted into the Plunger Holder 
   Double chek tip is resting in the Tip Support Groove
