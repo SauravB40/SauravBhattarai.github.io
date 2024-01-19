@@ -15,7 +15,7 @@ gallery:
   - url: /assets/img/Syringe Pump Wiring.png
     image_path: /assets/img/Syringe Pump Wiring.png
 
-* Parts Used
+Parts Used
 | Command | Description |
 | --- | --- |
 | `git status` | List all new or modified files |
