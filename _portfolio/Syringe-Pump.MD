@@ -58,11 +58,9 @@ gallery:
   | [Panel Mount Latching Push Buttons](https://amzn.to/3VxQ29h) | 1        |
   | [Limit Switch](https://www.amazon.com/gp/product/B073TYWX86/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) | 1        |
   | [RGB Common Cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 1        |
-
   | [Motor Mounting Plate](https://a360.co/3Ubg6cP) | 1        |
   | [Carriage](https://a360.co/3vGrQtR) | 1        |
   | [End Supports](https://a360.co/3HofuZM) | 2       |
-
   | [Lock Collar Lead Screw](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 2        |
   | [Lock Collar Linear Rod](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 2        |
   | [M3x8mm-Thread-Forming Screws](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 4        |
