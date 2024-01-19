@@ -38,7 +38,8 @@ gallery:
   1. Hit third button for forward movement
   2. Hit fourth button for backwards movement
 
-
+# Code to Syringe Pumo
+* Arudino Code
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
