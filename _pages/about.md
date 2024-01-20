@@ -27,9 +27,13 @@ Saurav is an Engineering student specifically studying Chemical and Biomolecular
 Saurav is well versed in many manufacturing and engineering areas and has eexperience with the following technologies:
 
 * Fused Filament Fabrication (FFF)
-* Coding (Python, Java, R, C++, Matlab)
+* Coding Languages: Python, JAVA, R, C++, Matlab
 * Laser Cuttting
-* Labratory Skills: PCR, ELisa, Gel Electrophoresis, Cloning, and Cell Culture
+* Labratory Skills: PCR, ELISA, Gel Electrophoresis, Cloning, and Cell Culture
+* SolidWorks/Fusion 360
+* Aspen
+* Arduino Porgramming
+* Prism
 
 
 ## Awards
