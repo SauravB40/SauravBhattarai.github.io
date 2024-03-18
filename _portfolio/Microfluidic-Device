@@ -31,13 +31,13 @@ gallery:
   2. Simultaneously, lower the full syringe while adjusting the distance of the Flange Holder (carriage) to fit
   3. Slowly lower the syringe to fit into the Flange Holder, make sure the plunger is inserted into the Plunger Holder 
   4. Double the tip is resting in the Tip Support Groove
-  4. Adjust the desired flow rate using the ial or enter value in the program
+  4. Adjust the desired flow rate using the dial or enter value in the program
   6. Automated Use
   7. Adjust desired flow rate 
   8. Hit the Red Button with the silver Casing
 * Manual Use
   1. Hit the third button for forward movement
-  2. Hit the fourth button for backwards movement
+  2. Hit the fourth button for backward movement
 
 # Recreating the Syringe Pump
 * [Arduino Code for the Syringe Pump](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
