@@ -1,6 +1,7 @@
 ---
-title: "Motorized Syringe Pump"
-excerpt: "DIY Syringe Pump capable of adjustable and precise disposal of fluids at various Flow Rates."
+title: "Microfluidic Device"
+excerpt: "Microfluidic Devices are small boards with circuit-like channels that allow for analysis of the physical and chemical properties of fluids. 
+These channels as small as 60 micrometer fluids can be analyzed at a microscale. "
 header:
   image: /assets/img/Syringe Pump Github.JPG
   teaser: /assets/img/Syringe Pump Github.JPG
