@@ -1,6 +1,6 @@
 ---
 title: "Motorized Syringe Pump"
-excerpt: "DIY Syringe Pump capable of adjustbale and percise disposal of fluids at various Flow Rates."
+excerpt: "DIY Syringe Pump capable of adjustable and precise disposal of fluids at various Flow Rates."
 header:
   image: /assets/img/Syringe Pump Github.JPG
   teaser: /assets/img/Syringe Pump Github.JPG
@@ -19,7 +19,7 @@ gallery:
 
 # Discription
 
-* **Design and Purpose** Syringe pumps are highly accurate, and with a continuous flow of liquid, they allow for sterility. This pump only has a motor, lead screw, basic computer coding, and a housing, which leads to a simple design while being incredibly useful. However, even lower-end syringe pumps can cost thousands of dollars; therefore, custom fabrication is economically advisable. With buttons that allow for manual movement of the pump, as well as continuous movement with a set dial, this pump can reliably push fluids. The pump comes with an auto-shutoff feature with light indicators that allow for ease of use. The pump has an output rate that is accurate within 0.1 uL. 
+* **Design and Purpose** Syringe pumps are highly accurate, and with a continuous flow of liquid, they allow for sterility. This pump only has a motor, lead screw, basic computer coding, and housing, which leads to a simple design while being incredibly useful. However, even lower-end syringe pumps can cost thousands of dollars; therefore, custom fabrication is economically advisable. With buttons that allow for manual movement of the pump, as well as continuous movement with a set dial, this pump can reliably push fluids. The pump comes with an auto-shutoff feature with light indicators that allow for ease of use. The pump has an output rate that is accurate within 0.1 uL. 
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4db2342f1295657f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -29,15 +29,15 @@ gallery:
 * Automatic Use
   1. Extend the carriage
   2. Simultaneously, lower the full syringe while adjusting the distance of the Flange Holder (carriage) to fit
-  3. Slowly lower the syringe to fit into the Flange Holder, make sure plunger is inserted into the Plunger Holder 
-  4. Double chek tip is resting in the Tip Support Groove
-  4. Adjust desired flow rate suing dial or enter value in Program
+  3. Slowly lower the syringe to fit into the Flange Holder, make sure the plunger is inserted into the Plunger Holder 
+  4. Double the tip is resting in the Tip Support Groove
+  4. Adjust the desired flow rate using the ial or enter value in the program
   6. Automated Use
   7. Adjust desired flow rate 
-  8. Hit Red Button with silver Casing
+  8. Hit the Red Button with the silver Casing
 * Manual Use
-  1. Hit third button for forward movement
-  2. Hit fourth button for backwards movement
+  1. Hit the third button for forward movement
+  2. Hit the fourth button for backwards movement
 
 # Recreating the Syringe Pump
 * [Arduino Code for the Syringe Pump](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
