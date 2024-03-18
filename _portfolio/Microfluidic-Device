@@ -1,6 +1,6 @@
 ---
 title: "Microfluidic Device"
-excerpt: "Microfluidic Device used to analyze mixing of biological components at a microscale."
+excerpt: "Microfluidic Device used to analyze the mixing of biological components at a microscale."
 header:
   image: /assets/img/Syringe Pump Github.JPG
   teaser: /assets/img/Syringe Pump Github.JPG
@@ -18,6 +18,6 @@ gallery:
 ---
 
 # Discription of Microfluidic Device 
-# 
+* **What is Microfludiidc Device?**
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
