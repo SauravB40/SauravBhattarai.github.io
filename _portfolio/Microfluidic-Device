@@ -1,6 +1,6 @@
 ---
 title: "Microfluidic Device"
-excerpt: "DIY Syringe Pump capable of adjustable and precise disposal of fluids at various Flow Rates."
+excerpt: "Microfluidic Device used to analyze mixing of biological components at a microscale."
 header:
   image: /assets/img/Syringe Pump Github.JPG
   teaser: /assets/img/Syringe Pump Github.JPG
@@ -16,6 +16,8 @@ gallery:
     image_path: /assets/img/Syringe Pump Wiring.png
 
 ---
-# Discription fo Microfluidic Device  
+
+# Discription of Microfluidic Device 
+# 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
