@@ -17,9 +17,9 @@ feature_row:
   - image_path: /assets/img/TPU iPhone 13 Case.png
     title: "TPU iPhone 13 Case"
     excerpt: "A iPhone 13 case that can withstand falls from Terminal Velocity."
-  - image_path: /assets/img/TPU iPhone 13 Case.png
+  - image_path: /assets/img/Syringe Pump Github.JPG
     title: "Microfluidic Device"
-    excerpt: "A Microfluidic device that can be used for the analysis of biological compents."
+    excerpt: "A Microfluidic device that can be used for the analysis of biological components."
 ---
 
 {% include feature_row %}
