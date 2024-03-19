@@ -28,7 +28,7 @@ gallery:
 # Applications
 * **Hi
 
-# Challenges
+# Mixing Challenges
 * **Hi
 
 # Mixing Sections
