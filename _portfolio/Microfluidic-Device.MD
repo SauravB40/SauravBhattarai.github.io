@@ -20,7 +20,7 @@ gallery:
 **What are Microfluidic Devices?** 
 * Microfluidic Devices are small boards with circuit-like channels that allow for analysis of the physical and chemical properties of fluids. With channels as small as 60-micrometer fluids can be analyzed at a microscale, reducing reagent and sample consumption and in turn resulting in cheaper tests. These devices can be used in several different applications such as medical diagnostics, DNA sequencing, tissue engineering, and even environmental testing. 
 
-* Image of Devices 
+* !{Microfluidic Device)(https://formlabs.com/_next/image/?url=https%3A%2F%2Fformlabs-media.formlabs.com%2Ffiler_public_thumbnails%2Ffiler_public%2F70%2F81%2F7081d602-babd-4b6a-93a9-3c52fdb075b0%2Fimage3.jpg__1354x0_q85_subsampling-2.jpg&w=3840&q=75)
 
 **Cancer Detection using Microfluidic Devices**
 * Microfluidic Devices have many applications, one of the most influential being cancer detection. Most Circulating Tumor Cells (CTCs) are larger than healthy cells, these devices can isolate these cells based on their size using microscale filters and precise pore sizes. These pore sizes allow healthy cells and blood serum to pass through but capture these CTCs. Furthermore, Density-Based separation can be used to separate CTCs from the blood with density gradients, the sedimentation rate for Tumor cells will differ greatly from healthy cells. These devices could also incorporate immunogenic techniques for isolating Cancer cells by flowing blood through channels with antibodies that can bind. These antibodies could be tagged with some maker-like fluorescents which would allow for visual analysis.   
