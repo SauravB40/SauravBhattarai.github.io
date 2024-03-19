@@ -13,11 +13,11 @@ feature_row:
   - image_path: /assets/img/Syringe Pump Github.JPG
     alt: "CNC Mill"
     title: "Motorized Syringe Pump"
-    excerpt: "Built for percise yet inexpensive method of fluid delivery for a medical setting."
+    excerpt: "Built for precise yet inexpensive method of fluid delivery for a medical setting."
   - image_path: /assets/img/TPU iPhone 13 Case.png
     title: "TPU iPhone 13 Case"
     excerpt: "A iPhone 13 case that can withstand falls from Terminal Velocity."
-  - image_path: /assets/img/Syringe Pump Github.JPG
+  - image_path: /assets/img/Device bannerpng.png
     title: "Microfluidic Device"
     excerpt: "A Microfluidic device that can be used for the analysis of biological components."
 ---
