@@ -53,7 +53,7 @@ gallery:
 
 
 **Mixing of Green and Red Fluids**
-* Video
+* [![Watch the video] (https://youtube.com/shorts/7zwTe8fBs40)
 
 **Mixing Sections**
 * On the Left side of the device, the design principle for the mixing section included a series of splitting flow paths, sharp corners, and inclined mixers to introduce Chaotic Advection. When the fluid enters the device, it comes into contact with another and splits into one pathway. Here the contact and turn allow for contact and mixing. After this conversion, the path has a series of inclined mixers (4), which disrupt the parallel flow further. These inclined mixers were made with half triangles at a width and a height of 1 mm. After this chaotic short distance, the paths diverge, and then each path goes through a sharp turn inducing Chaotic Advection. pathway after the mixers are at a height and width of .5 mm. The individual channels then converge into a larger channel increasing the cross-sectional area which introduces another round of chaotic fluid behavior. The fluid then goes through a series of conversions and diversions and a final turn to fully mix with one another. These paths have a width and height of 1mm. 
