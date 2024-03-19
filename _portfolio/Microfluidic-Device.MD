@@ -21,57 +21,25 @@ gallery:
 
 * **What are Microfluidic Devices?** Microfluidic Devices are small boards with circuit-like channels that allow for analysis of the physical and chemical properties of fluids. With channels as small as 60-micrometer fluids can be analyzed at a microscale, reducing reagent and sample consumption and in turn resulting in cheaper tests. These devices can be used in several different applications such as medical diagnostics, DNA sequencing, tissue engineering, and even environmental testing. 
 
-# CAD Model
+# Cad Model
+* **Hi
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4db2342f1295657f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Operating Instructions
+# Applications
+* **Hi
 
-* Automatic Use
-  1. Extend the carriage
-  2. Simultaneously, lower the full syringe while adjusting the distance of the Flange Holder (carriage) to fit
-  3. Slowly lower the syringe to fit into the Flange Holder, make sure the plunger is inserted into the Plunger Holder 
-  4. Double the tip is resting in the Tip Support Groove
-  4. Adjust the desired flow rate using the ial or enter value in the program
-  6. Automated Use
-  7. Adjust desired flow rate 
-  8. Hit the Red Button with the silver Casing
-* Manual Use
-  1. Hit the third button for forward movement
-  2. Hit the fourth button for backwards movement
+# Challenges
+* **Hi
 
-# Recreating the Syringe Pump
-* [Arduino Code for the Syringe Pump](https://docs.google.com/document/d/147egtqbcQQGJZjOecSnNWvDvt_aaKVB95mmNoiG48J8/edit?usp=sharing)
-* Parts
+# Mixing Sections
+* **Hi
 
-  | Item     | Quantity |
-  | ---      | ---       |
-  | [250 mm lead screw with 2 mm pitch and 9 mm lead](https://amzn.to/3infwI0)| 1         |
-  | [1/4" x 8mm Flexible Coupling](https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/) | 1        |
-  | [200 mm linear rod with 8 mm diameter](https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3) | 2        |
-  | [LM8UU Linear bearing for 8 mm diameter rod](https://www.amazon.com/gp/product/B087WPGQ8T/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1) | 2        |
-  | [2040 Aluminum Extrusion 1' Length](https://openbuildspartstore.com/v-slot-20x40-linear-rail/) | 1        |
-  | [Nema 17 Stepper Motor](https://www.amazon.com/gp/product/B07LF898KN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) | 1        |
-  | [MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp](https://www.amazon.com/dp/B005T9HGLI/ref=cm_sw_em_r_mt_dp_A8CZ056TM52EJGZTGZGR?_encoding=UTF8&psc=1) | 1        |
-  | [Arduino Uno](https://www.amazon.com/dp/B007R9TUJE/ref=cm_sw_em_r_mt_dp_TY8JGK0CJD1JEJM4BNNJ) | 1        |
-  | [A4988 Stepper Driver](https://www.amazon.com/dp/B01FFGAKK8/ref=cm_sw_em_r_mt_dp_V0YKTYKDWMR8WHTKA53T?_encoding=UTF8&psc=1) | 1        |
-  | [Small Breadboard](https://www.amazon.com/dp/B082VYXDF1/ref=cm_sw_em_r_mt_dp_N6Q28CAGPAYCKCSJKDDC?_encoding=UTF8&psc=1) | 1        |
-  | [Panel Mount Latching Push Buttons](https://amzn.to/3VxQ29h) | 1        |
-  | [Limit Switch](https://www.amazon.com/gp/product/B073TYWX86/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1) | 1        |
-  | [RGB Common Cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) | 1        |
-  | [Motor Mounting Plate](https://a360.co/3Ubg6cP) | 1        |
-  | [Carriage](https://a360.co/3vGrQtR) | 1        |
-  | [End Supports](https://a360.co/3HofuZM) | 2       |
-  | [Lock Collar Lead Screw](https://a360.co/48DdRDr) | 2        |
-  | [Lock Collar Linear Rod](https://a360.co/425uzc9) | 2        |
-  | [M3x8mm-Thread-Forming Screws](https://a360.co/3tStg3U) | 4        |
-  | [Nut-tr8x8](https://a360.co/3tR3Eo1) | 1        |
-  | [M5x8mm-Bolt](https://a360.co/4b3QGnl) | 6        |
-  | [M5 Tee-Nut](https://a360.co/48Ee2yh) | 6        |
-  | [M3x10mm-Bolt](https://a360.co/48Fypvc) | 6        |
-  | [F688ZZ-Flanged Bearing](https://a360.co/3S8CqRE) | 2        |
+# Mixing Video
+* **Hi
 
+# Process of Creating a Microfluidic Device
+* **Hi
 
-  
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
