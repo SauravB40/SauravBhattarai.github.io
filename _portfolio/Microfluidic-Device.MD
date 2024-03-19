@@ -6,13 +6,13 @@ header:
   teaser: /assets/img/Device bannerpng.png
 
 gallery:
-  - url: /assets/img/Syringepump Enclosure.png
-    image_path: assets/img/Syringepump Enclosure.png
-  - url: /assets/img/Syringe Pump Lid.png
-    image_path: assets/img/Syringe Pump Lid.png
+  - url: /assets/img/Device Mold.JPG
+    image_path: /assets/img/Device Mold.JPG
+  - url: /assets/img/Mold + Device.jpg
+    image_path: /assets/img/Mold + Device.jpg
     alt: "placeholder image 2"
-  - url: /assets/img/Syringe Pump Controls.png
-    image_path: /assets/img/Syringe Pump Controls.png
+  - url: /assets/img/Device Running.jpg
+    image_path: /assets/img/Device Running.jpg
   - url: /assets/img/Syringe Pump Wiring.png
     image_path: /assets/img/Syringe Pump Wiring.png
 
