@@ -19,7 +19,7 @@ gallery:
 
 # Discription
 
-* **Design and Purpose** Syringe pumps are highly accurate, and with a continuous flow of liquid, they allow for sterility. This pump only has a motor, lead screw, basic computer coding, and housing, which leads to a simple design while being incredibly useful. However, even lower-end syringe pumps can cost thousands of dollars; therefore, custom fabrication is economically advisable. With buttons that allow for manual movement of the pump, as well as continuous movement with a set dial, this pump can reliably push fluids. The pump comes with an auto-shutoff feature with light indicators that allow for ease of use. The pump has an output rate that is accurate within 0.1 uL. 
+* **What are Microfluidic Devices?** Microfluidic Devices are small boards with circuit-like channels that allow for analysis of the physical and chemical properties of fluids. With channels as small as 60-micrometer fluids can be analyzed at a microscale, reducing reagent and sample consumption and in turn resulting in cheaper tests. These devices can be used in several different applications such as medical diagnostics, DNA sequencing, tissue engineering, and even environmental testing. 
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4db2342f1295657f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
