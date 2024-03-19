@@ -16,7 +16,7 @@ feature_row:
     excerpt: "Built for precise yet inexpensive method of fluid delivery for a medical setting."
   - image_path: /assets/img/TPU iPhone 13 Case.png
     title: "TPU iPhone 13 Case"
-    excerpt: "A iPhone 13 case that can withstand falls from Terminal Velocity."
+    excerpt: "An iPhone 13 case that can withstand falls from Terminal Velocity."
   - image_path: /assets/img/Device bannerpng.png
     title: "Microfluidic Device"
     excerpt: "A Microfluidic device that can be used for the analysis of biological components."
