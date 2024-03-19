@@ -2,8 +2,9 @@
 title: "Microfluidic Device"
 excerpt: "Microfluidic Device used to analyze the mixing of biological components at a microscale."
 header:
-  image: /assets/img/Syringe Pump Github.JPG
-  teaser: /assets/img/Syringe Pump Github.JPG
+  image: /assets/img/Device bannerpng.png
+  teaser: /assets/img/Device bannerpng.png
+
 gallery:
   - url: /assets/img/Syringepump Enclosure.png
     image_path: assets/img/Syringepump Enclosure.png
