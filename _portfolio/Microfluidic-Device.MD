@@ -36,8 +36,13 @@ gallery:
 **CAD Model of Microfluidic Device**
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4db2342f1295657f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-**Process of Creating a Microfluidic Device**
-* Hi
+
+
+**Process of Creating a Microfluidic Device: From a 3D Printed Mold to the Final Device**
+* This Microfluidic Device was made using 3D printing technique called Steriolithrogaphy (SLA) which involves using UV light to photopolymerize resin. The first step si to desng a mold usign a computer-aided design (CAD) software. Most designs includes features that encourge Chaotic Adveciton so that mixing occur within the channels. Many materials can eb 3D printed hwoever SLA is suerpio method compared to other 3D pritnign tehcnogly as it offers high resolutions, smooth surfaces, conssitnet layering, and realtively faster opritnign speed. These charateristscs allow for incorporation of fine detials liek channels, dviots, and geotmeies which are ruired fo rmxing in these devices. 
+* Using SLA, the resin is cured using UV light in a layer by layer fashion. After the all the alyers have been created and solidified, then the post processing of this modl beings. Hte psot porcessign involes wahsing resin and the curing any resin that is left behind. This proces ssually takes anywhere between five to 10 mintues. 
+* After the curing and washing, the mold goes through Parylene Coating. This coating allwos for easier removal of cast PDMS. It also impoves surface quality as it maeks the mold more hydrophobic and biocompatible. this reduces cytoxity and otehr adverse reactiosn that might occur durign the testing of samples and mixng of biolgicla reagents. THe coating voerall icnreases the lifespan of the mold, many more devices cna be fabricated without the worry of the mold degrading or beign altered. The coatign could also be applied to the device itself. The coating allwos fo rthe device to be biocmaptlbe and reduce adverse reactions. Fruther, it adds to the durblitya nd lifespan fo the device as it protects the deivce form ahrsh fluids, leakage and contantiantion, as well as preventing wear and tear.
+* Plasma bonding could also be sued to sela Micorlfudic Devices. When using Plasma, the device is exposed to low-pressure plasma to enourage bdning to elminate leaks. 
 
 
 **Mixing of Green and Red Fluids**
