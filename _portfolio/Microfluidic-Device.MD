@@ -47,7 +47,7 @@ gallery:
   * Mold designed using Fusion 360 (Autodesk) and printed using a Form 3 SLA printer (Formlabs). The clear resin was used. 
   * Pritns washed with isopropyl alcohol and then placed in the Formlabs UV cure for 60 seconds at 60 °C.
   * Prints then coated with Parylene-C in Labcoter PDS 2010 perylene deposition machine (Specialty Coating Systems).
-  * Prints were cured using curing agents and PDMS (poly dimethyl siloxane) was added.
+  * Prints were cured using curing agents and PDMS (polydimethyl siloxane) was added.
   * Then PDMS devices were bonded to glass coverslips using a PlasmaFlo PDC-FMG plasma cleaner (Harrick Plasma).
 
 
