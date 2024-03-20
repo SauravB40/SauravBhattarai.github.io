@@ -13,20 +13,18 @@ gallery:
     alt: "placeholder image 2"
   - url: /assets/img/Device Running.jpg
     image_path: /assets/img/Device Running.jpg
-  - url: /assets/img/Syringe Pump Wiring.png
-    image_path: /assets/img/Syringe Pump Wiring.png
 
 ---
 
 **What are Microfluidic Devices?** 
 * Microfluidic Devices are small boards with circuit-like channels that allow for analysis of the physical and chemical properties of fluids. With channels as small as 60-micrometer fluids can be analyzed at a microscale, reducing reagent and sample consumption and in turn resulting in cheaper tests. These devices can be used in several different applications such as medical diagnostics, DNA sequencing, tissue engineering, and even environmental testing. 
 
-* ![Microfluidic Device](https://formlabs.com/_next/image/?url=https%3A%2F%2Fformlabs-media.formlabs.com%2Ffiler_public_thumbnails%2Ffiler_public%2F70%2F81%2F7081d602-babd-4b6a-93a9-3c52fdb075b0%2Fimage3.jpg__1354x0_q85_subsampling-2.jpg&w=3840&q=75)
+![Microfluidic Device](https://formlabs.com/_next/image/?url=https%3A%2F%2Fformlabs-media.formlabs.com%2Ffiler_public_thumbnails%2Ffiler_public%2F70%2F81%2F7081d602-babd-4b6a-93a9-3c52fdb075b0%2Fimage3.jpg__1354x0_q85_subsampling-2.jpg&w=3840&q=75)
 
 **Cancer Detection using Microfluidic Devices**
 * Microfluidic Devices have many applications, one of the most influential being cancer detection. Most Circulating Tumor Cells (CTCs) are larger than healthy cells, these devices can isolate these cells based on their size using microscale filters and precise pore sizes. These pore sizes allow healthy cells and blood serum to pass through but capture these CTCs. Furthermore, Density-Based separation can be used to separate CTCs from the blood with density gradients, the sedimentation rate for Tumor cells will differ greatly from healthy cells. These devices could also incorporate immunogenic techniques for isolating Cancer cells by flowing blood through channels with antibodies that can bind. These antibodies could be tagged with some maker-like fluorescents which would allow for visual analysis.   
 
-* ![Circualting Cancer Cells](https://healthcare-in-europe.com/media/story_section_image/2264/image-01-menarini-silicon-biosystems-circulating-tumor-cell.jpg)
+![Circualting Cancer Cells](https://healthcare-in-europe.com/media/story_section_image/2264/image-01-menarini-silicon-biosystems-circulating-tumor-cell.jpg)
 
 **Challenges with Mixing Fluids in Microfluidic Devices**
 * One of the biggest challenges of Microfluidic Devices comes with what is so great about these devices: The size. The channels in these devices allow for the transport, sorting, and mixing of reagents at a small volume. However, the flow characteristic of liquids in small volumes is Laminar Flow. The fluids do not experience turbulent flow or mixing, but mixing is important for performing biological assays. For example, antibodies might not interact with the blood sample as well or if at all which will reduce the detection rate from the example above since diffusion is the only medium of mixing. To combat this caveat, the correction area has to be increased, altering the surface area to volume ratio to promote mixing. The cross-sectional area is increased through geometries like serpentine path, splitting flow paths, adding sharp corners, Herringbone, Chevron, and inclined mixers to introduce Chaotic Advection. 
@@ -53,8 +51,8 @@ gallery:
   * Then PDMS devices were bonded to glass coverslips using a PlasmaFlo PDC-FMG plasma cleaner (Harrick Plasma)
 
 
-**Mixing of Green and Red Fluids**
-* [![Watch the video](https://www.strouse.com/hubfs/iStock-842214296.jpg)](https://youtube.com/shorts/7zwTe8fBs40)
+**Mixing of Green and Red Fluids Video**
+[![Watch the video](https://www.strouse.com/hubfs/iStock-842214296.jpg)](https://youtube.com/shorts/7zwTe8fBs40)
 
 **Mixing Sections**
 * On the Left side of the device, the design principle for the mixing section included a series of splitting flow paths, sharp corners, and inclined mixers to introduce Chaotic Advection. When the fluid enters the device, it comes into contact with another and splits into one pathway. Here the contact and turn allow for contact and mixing. After this conversion, the path has a series of inclined mixers (4), which disrupt the parallel flow further. These inclined mixers were made with half triangles at a width and a height of 1 mm. After this chaotic short distance, the paths diverge, and then each path goes through a sharp turn inducing Chaotic Advection. pathway after the mixers are at a height and width of .5 mm. The individual channels then converge into a larger channel increasing the cross-sectional area which introduces another round of chaotic fluid behavior. The fluid then goes through a series of conversions and diversions and a final turn to fully mix with one another. These paths have a width and height of 1mm. 
