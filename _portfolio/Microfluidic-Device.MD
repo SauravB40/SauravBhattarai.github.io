@@ -17,6 +17,9 @@ gallery:
 ---
 
 **What are Microfluidic Devices?** 
+
+![Device](/assets/img/Horizontal Mixing.jpg)
+
 * Microfluidic Devices are small boards with circuit-like channels that allow for analysis of the physical and chemical properties of fluids. With channels as small as 60-micrometer fluids can be analyzed at a microscale, reducing reagent and sample consumption and in turn resulting in cheaper tests. These devices can be used in several different applications such as medical diagnostics, DNA sequencing, tissue engineering, and even environmental testing. 
 
 ![Microfluidic Device](https://formlabs.com/_next/image/?url=https%3A%2F%2Fformlabs-media.formlabs.com%2Ffiler_public_thumbnails%2Ffiler_public%2F70%2F81%2F7081d602-babd-4b6a-93a9-3c52fdb075b0%2Fimage3.jpg__1354x0_q85_subsampling-2.jpg&w=3840&q=75)
