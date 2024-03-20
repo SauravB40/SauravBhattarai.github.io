@@ -2,8 +2,8 @@
 title: "Microfluidic Device"
 excerpt: "Microfluidic Device used to analyze the mixing of biological components at a microscale."
 header:
-  image: /assets/img/Horizontal Mixing.jpg
-  teaser: /assets/img/Device bannerpng.png
+  image: /assets/img/Device bannerpng.png
+  teaser: /assets/img/Horizontal Mixing.jpg
 
 gallery:
   - url: /assets/img/Device Mold.JPG
