@@ -2,7 +2,7 @@
 title: "Microfluidic Device"
 excerpt: "Microfluidic Device used to analyze the mixing of biological components at a microscale."
 header:
-  image: /assets/img/Device bannerpng.png
+  image: /assets/img/Horizontal Mixing.jpg
   teaser: /assets/img/Device bannerpng.png
 
 gallery:
@@ -13,12 +13,9 @@ gallery:
     alt: "placeholder image 2"
   - url: /assets/img/Device Running.jpg
     image_path: /assets/img/Device Running.jpg
-
 ---
 
 **What are Microfluidic Devices?** 
-
-![Device](/assets/img/Horizontal Mixing.jpg)
 
 * Microfluidic Devices are small boards with circuit-like channels that allow for analysis of the physical and chemical properties of fluids. With channels as small as 60-micrometer fluids can be analyzed at a microscale, reducing reagent and sample consumption and in turn resulting in cheaper tests. These devices can be used in several different applications such as medical diagnostics, DNA sequencing, tissue engineering, and even environmental testing. 
 
