@@ -29,7 +29,7 @@ gallery:
 **Challenges with Mixing Fluids in Microfluidic Devices**
 * One of the biggest challenges of Microfluidic Devices comes with what is so great about these devices: The size. The channels in these devices allow for the transport, sorting, and mixing of reagents at a small volume. However, the flow characteristic of liquids in small volumes is Laminar Flow. The fluids do not experience turbulent flow or mixing, but mixing is important for performing biological assays. For example, antibodies might not interact with the blood sample as well or if at all which will reduce the detection rate from the example above since diffusion is the only medium of mixing. To combat this caveat, the correction area has to be increased, altering the surface area to volume ratio to promote mixing. The cross-sectional area is increased through geometries like serpentine path, splitting flow paths, adding sharp corners, Herringbone, Chevron, and inclined mixers to introduce Chaotic Advection. 
 
-* Image of Laminar Flow and Geometries from Paper
+![Laminar vs Turbulent Flow](https://www.bronkhorst.com/getmedia/b29e66cb-8121-47d7-ac22-a715eb24e1b8/LaminarVSTurbulent.png?width=)
 
 
 **CAD Model of Microfluidic Device**
