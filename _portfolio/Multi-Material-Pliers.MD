@@ -25,7 +25,7 @@ gallery:
 **Combination of Print-in-Place Materials**
 * Many combinations of printing materials can be utilized; however, it depends on the Surface Energy, Chemical Composition, Shrinkage and Cooling Rates, and Mechanical Compatibility. Surface energy is the energy required to create or maintain the surface of the material. Polar materials usually have high surface energy, while non-polar materials have lower surface energy due to the distribution of charges. For the best adhesion, materials with similar surface energy are ideal. Polycarbonate, polyester, nylon, acrylonitrile butadiene styrene (ABS), and acrylic have medium surface energy. Polyethylene, polyvinyl alcohol (PVA), ethylene vinyl acetate (EVA), and polypropylene have low surface energy. Having similar chemical compositions, which include types of intermolecular forces, also contributes to the adherence of different material types.
 
-* Common Material Duos**
+* Common Material Duos
   * PLA and TPU
   * PLA and PVA
   * ABS and HIPs
