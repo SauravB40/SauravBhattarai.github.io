@@ -44,9 +44,6 @@ gallery:
 * For the PLA portion of the pliers, including the handles and jaws, the settings were Voron Rigid DF settings. The settings for TPU were the same as the settings for the Voron Elastic DF settings. 
 
 
-
-he inclined mixing sections, measuring 1 mm in length, width, and height were chosen to strike a balance between size and mixing efficiency.
-
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 
