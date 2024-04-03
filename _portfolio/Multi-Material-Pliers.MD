@@ -19,6 +19,9 @@ gallery:
     image_path: assets/img/Pliers+Res.jpg
   - url: /assets/img/Verticle Pliers.jpg
     image_path: /assets/img/Verticle Pliers.jpg
+  - url: /assets/img/PLiersGIF.MOV
+    image_path: /assets/img/PLiersGIF.MOV
+
 ---
 
 **Print in Place Parts** 
