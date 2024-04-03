@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/img/Device bannerpng.png
     title: "Microfluidic Device"
     excerpt: "A Microfluidic device that can be used for the analysis of biological components."
- - image_path: /assets/img/DFL2.1.jpg
+  - image_path: /assets/img/DFL2.1.jpg
     title: "Print-in-Place Multi-Material Pliers"
     excerpt: "Industrial Pliers made on Dual Extrusion printer using TPU and PLA."
 ---
