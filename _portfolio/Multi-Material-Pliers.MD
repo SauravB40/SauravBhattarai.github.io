@@ -9,13 +9,16 @@ header:
 
 
 gallery:
-  - url: /assets/img/Device Mold.JPG
-    image_path: /assets/img/Device Mold.JPG
-  - url: /assets/img/Mold + Device.jpg
-    image_path: /assets/img/Mold + Device.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/Device Running.jpg
-    image_path: /assets/img/Device Running.jpg
+  - url: /assets/img/PI.JPG
+    image_path: /assets/img/PI.JPG
+  - url: /assets/img/PT.JPG
+    image_path: /assets/img/PT.JPG
+  - url: /assets/img/PW.JPG
+    image_path: /assets/img/PW.JPG
+  - url: assets/img/Pliers+Res.jpg
+    image_path: assets/img/Pliers+Res.jpg
+  - url: /assets/img/Verticle Pliers.jpg
+    image_path: /assets/img/Verticle Pliers.jpg
 ---
 
 **Print in Place Parts** 
