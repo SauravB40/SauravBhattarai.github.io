@@ -2,8 +2,9 @@
 title: "Multi-Material Pliers"
 excerpt: "Needle nose Mulit-Material Pliers that are capable of gripping and picking up various materials."
 header:
-  image: /assets/img/Device bannerpng.png
-  teaser: /assets/img/Horizontal Mixing.jpg
+  image: /assets/img/DFL.JPG
+  teaser: /assets/img/DFL.JPG
+
 
 gallery:
   - url: /assets/img/Device Mold.JPG
