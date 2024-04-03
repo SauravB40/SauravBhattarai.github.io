@@ -45,6 +45,12 @@ gallery:
 **Mechanics of Multi-Material Pliers**
 * The portion that allows the pliers to move is the rectangular spring between the two handles and jaws. When the handles are compressed, the spring shears, allowing the jaws to compress at a higher rate. This translation is due to the TPU's characteristic high ductility. The inner mesh is aligned at a 90-degree angle, which allows the shearing of the spring to be translated from the bottom half to the top half with high accuracy and multiplicity. The superior tear strength and elasticity of the spring then allow the jaws to bounce back to a neutral, open position. This, along with the durability, allows for many actuations over the spring's lifetime
 
+
+**CAD Model of Print-in-Place Pliers**
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e88060f78c0e555c7?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
+
 **Design Specification of Pliers**
 * The pliers were designed with ergonomics, grip, and versatility in mind. The handles have fillets that allow the hands to comfortably wrap around the corners, increasing grip and agility when in use. The large handle also allows users with various hand sizes to use the pliers. The large handle also allows the spring to compress and actuate the pliers with little to no force. Since the spring is joined with the handle and jaws through a dovetail fit, these parts can be removed and replaced with jaws and handles that can work for specific applications. The pliers can lift items as small as resistors to items as large as mugs. This is enabled by the slight inward angle of the jaws, making them very versatile. The total length of the jaw is around 30 mm, but the inward portion is around 10 mm, which allows for access to nooks and crannies. The thickness of the pliers throughout the design is 7.5 mm, which is around the thickness of an iPhone, allowing for a comfortable and nimble grip but also mechanical strength.
 
