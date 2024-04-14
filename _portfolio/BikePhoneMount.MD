@@ -35,7 +35,7 @@ gallery:
 
 
 **Phone Mount Design**
-* This Phone Mount takes advantage of the function of a basic screw. Specifically, it uses a Two Screw approach for adaptability and flexibility. The main unit that holds the phone is a M20x2.5 threaded screw. The stem being a screw allows easy removal of the phone mount as well as easy rotation. Further, there is a knob underneath the clamp platform that allows for securing the rotation. Tightening this knob ensures the phone won't rotate and locks the position. The second screw, aka the adjuster (M10x1.5), allows for the loosening of the actual clamp. Loosening of the actual clamp allows for rotation of the mount allowing for many viewing angles. 
+* This phone mount takes advantage of the function of a basic screw. Specifically, it uses a Two Screw approach for adaptability and flexibility. The main unit that holds the phone is a M20x2.5 threaded screw. The stem being a screw allows easy removal of the phone mount as well as easy rotation. Further, there is a knob underneath the clamp platform that allows for securing the rotation. Tightening this knob ensures the phone won't rotate and locks the position. The second screw, aka the adjuster (M10x1.5), allows for the loosening of the actual clamp. Loosening of the actual clamp allows for rotation of the mount for many viewing angles. 
 
 **Assembly**
 * The easy assembly and utility were the major factors when designing this phone mount.
