@@ -4,7 +4,7 @@ excerpt: "Versatile Bike Phone Mount designed using Top-Down Modeling"
 header:
   image: /assets/img/PhoneMount1.png
 
-  teaser: /assets/img/PhoneMount1.png
+  teaser: /assets/img/Phone Mount2.png
 
 
 
