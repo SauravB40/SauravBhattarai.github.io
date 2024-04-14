@@ -27,11 +27,11 @@ gallery:
 * Top-down modeling is a method in 3D design that utilizes creating a product from the highest level assembly. This means going from the overall design of the product and then developing the individual components around the overall design to ensure tight fit and function. The overall design would be the design framework work which the smaller parts and their frameworks would interact with. It provides a holistic view of the product and guides the design process for its individual parts. 
 * This method also allows for exporting individual lower-level products with their sketches into different designs and models. These sketches can be altered within the different projects. This would then allow for different designs to have similar units from other projects that are not interconnected.  
 * Advantages of this method include a broad view of the design of the product, allowing for greater analysis of how the individual parts within the design work together, and adjustments and changes can be quickly applied throughout the design.
-* Disadvantages of this method are the complexity when designing the individual unit, like being weary of actually working on the intended unit. Another disadvantage is unintentionally over-engineering of parts. 
+* Disadvantages of this method are the complexity when designing the individual unit, like being weary of actually working on the intended unit. Another disadvantage is unintentionally over-engineering parts. 
 
 
-**CAD Model of Print-in-Place Pliers**
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e88060f78c0e555c7?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+**CAD Model of Bike phone Mount**
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e0233cdc690e06ee1?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 **Phone Mount Design**
