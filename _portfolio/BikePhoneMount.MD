@@ -8,8 +8,8 @@ header:
 
 
 gallery:
-  - url: /assets/img/PhoneMount1.png
-    image_path: /assets/img/PhoneMount1.png
+  - url: /assets/img/phoneMount0.JPG
+    image_path: /assets/img/phoneMount0.JPG
   - url: /assets/img/Verticl.JPG
     image_path: /assets/img/Verticl.JPG
   - url: /assets/img/Upsidedown.PNG
