@@ -2,9 +2,9 @@
 title: "Bike Phone Mount"
 excerpt: "Versatile Bike Phone Mount designed using Top-Down Modeling"
 header:
-  image: /assets/img/DFL2.1.jpg
+  image: /assets/img/PhoneMount1.png
 
-  teaser: /assets/img/DFL2.1.jpg
+  teaser: /assets/img/PhoneMount1.png
 
 
 
