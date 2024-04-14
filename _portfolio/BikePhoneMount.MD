@@ -10,16 +10,16 @@ header:
 gallery:
   - url: /assets/img/PhoneMount1.png
     image_path: /assets/img/PhoneMount1.png
-  - url: /assets/img/PT.JPG
-    image_path: /assets/img/PT.JPG
-  - url: /assets/img/PW.JPG
-    image_path: /assets/img/PW.JPG
-  - url: assets/img/Pliers+Res.jpg
-    image_path: assets/img/Pliers+Res.jpg
-  - url: /assets/img/Verticle Pliers.jpg
-    image_path: /assets/img/Verticle Pliers.jpg
-  - url: /assets/img/PLiersGIF.MOV
-    image_path: /assets/img/PLiersGIF.MOV
+  - url: /assets/img/Verticl.JPG
+    image_path: /assets/img/Verticl.JPG
+  - url: /assets/img/Upsidedown.PNG
+    image_path: /assets/img/Upsidedown.PNG
+  - url: /assets/img/Side Profiel Clamped.JPG
+    image_path: /assets/img/Side Profiel Clamped.JPG
+  - url: /assets/img/Side Profile Unclamped.JPG
+    image_path: /assets/img/Side Profile Unclamped.JPG
+  - url: /assets/img/SkaeTest.MOV
+    image_path: /assets/img/SkaeTest.MOV
 
 ---
 
