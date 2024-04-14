@@ -14,7 +14,7 @@ feature_row:
     alt: "CNC Mill"
     title: "Motorized Syringe Pump"
     excerpt: "Built for precise yet inexpensive method of fluid delivery for a medical setting."
-  - image_path: /assets/img/TPU iPhone 13 Case.png
+  - image_path: /assets/img/TPU Phoen Case1.jpg
     title: "TPU iPhone 13 Case"
     excerpt: "An iPhone 13 case that can withstand falls from Terminal Velocity."
   - image_path: /assets/img/TPU Phoen Case1.jpg
