@@ -14,12 +14,12 @@ feature_row:
     alt: "CNC Mill"
     title: "Motorized Syringe Pump"
     excerpt: "Built for precise yet inexpensive method of fluid delivery for a medical setting."
-  - image_path: /assets/img/TPU Phoen Case1.jpg
-    title: "TPU iPhone 13 Case"
-    excerpt: "An iPhone 13 case that can withstand falls from Terminal Velocity."
   - image_path: /assets/img/Device bannerpng.png
     title: "Microfluidic Device"
     excerpt: "A Microfluidic device that can be used for the analysis of biological components."
+  - image_path: /assets/img/TPU Phoen Case1.jpg
+    title: "TPU iPhone 13 Case"
+    excerpt: "An iPhone 13 case that can withstand falls from Terminal Velocity."
   - image_path: /assets/img/DFL2.1.jpg
     title: "Print-in-Place Multi-Material Pliers"
     excerpt: "Industrial Pliers made on Dual Extrusion printer using TPU and PLA."
