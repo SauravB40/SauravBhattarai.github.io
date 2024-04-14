@@ -23,6 +23,9 @@ feature_row:
   - image_path: /assets/img/DFL2.1.jpg
     title: "Print-in-Place Multi-Material Pliers"
     excerpt: "Industrial Pliers made on Dual Extrusion printer using TPU and PLA."
+  - image_path: /assets/img/PhoneMount1.png
+    title: "PLA iPhone 13 Bike Mount"
+    excerpt: "Versatile Bike Phone Mount designed using Top-Down Modeling." 
 ---
 
 {% include feature_row %}
