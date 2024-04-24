@@ -23,33 +23,31 @@ gallery:
 
 ---
 
-**What is Top-Down Modeling** 
-* Top-down modeling is a method in 3D design that utilizes creating a product from the highest level assembly. This means going from the overall design of the product and then developing the individual components around the overall design. This method ensures tight fit and function relative to the other parts. The overall design would be the design framework work which the smaller parts and their frameworks would interact with. It provides a holistic view of the product and guides the design process for its individual parts. 
-* This method also allows for exporting individual lower-level products with their sketches into different designs and models. These sketches can be altered within the different projects. This would then allow for different designs to have similar units from other projects that are not interconnected.  https://github.com/SauravB40/SauravBhattarai.github.io/blob/main/_portfolio/BikePhoneMount.MD
-* Advantages of this method include a broad view of the design of the product, allowing for greater analysis of how the individual parts within the design work together, and adjustments and changes can be quickly applied throughout the design.
-* Disadvantages of this method are the complexity when designing the individual unit, like being weary of actually working on the intended unit. Another disadvantage is unintentionally over-engineering parts. 
+**What is Generative Design** 
+* Generative Design is a design tool where the program generates designs based around certain geometries provided by the designer. Usually, the geomtries provided are preserve and obstacle geometries. Preserve geometries are designs that can not be modified but need to be part of the final design. Obstacle geometries are designs that the program has to generate a design around. Constraint geometries are used to prevent certain regions of the model from being used. 
 
+* Generative design is used to reduce time and costs while exploring new ideas and design methods. Various design iterations are presented by the program and based on certain criteria the user can select a specific iteration to further modify using traditional CAD tools. 
 
-**CAD Model of Bike phone Mount**
+**What is SlS Printing**
+* SLS, Selective Laser Sintering, is a 3D printing technology that uses the melting of powdered material, typically a thermoplastic polymer such as nylon for 3D printing. A laser along with the bed is used to fuse and melt the pellets. After each alyer is sintered, the bed lwoers and the raimign powder is brushed off, then another layer si added to repeat the rpocess. One benfit sof SLS is that there is no support amteiral requried which allwos many differnt tyep sof geomteries to be pritned. 
+
+**SLS Printed Truck**
+* The main benfits of SLS printing includes abilityt to print complex deisgns since there is no depency ont eh suage fo supports. Further dfiffernt geometires cn abe pritned such as overhangs an dudner cuts without additional processes. SLS technogly is also known for havign th ebailty to reuse unused pelets. Usually the ratio of unused to sued pellets is 70% to 30%.
+
+**CAD Model of Generative Design Truck**
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e0233cdc690e06ee1?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-**Phone Mount Design**
-* This phone mount takes advantage of the function of a basic screw. Specifically, it uses a Two Screw approach for adaptability and flexibility. The main unit that holds the phone is a M20x2.5 threaded screw. The stem being a screw allows easy removal of the phone mount as well as easy rotation. Further, there is a knob underneath the clamp platform that allows for securing the rotation. Tightening this knob ensures the phone won't rotate and locks the position. The second screw, aka the adjuster (M10x1.5), allows for the loosening of the actual clamp. Loosening of the actual clamp allows for rotation of the mount for many viewing angles. 
+**More About Generative Design**
+* Genrative design is a great tool that is used in many industry such as aerospace, automation, archetecture, and even healthcare. The main attraction for the suage of gernative design include differnt design chocies and reduction of time and amterial usage. In aerospace lightweight and durbale compents with forces can be mdoeld to ensure safe and accurate applciaiton. 
+* Generative design si sueful when trying to save time in moeny hoever sometiems the return on investment is nto good. When using generative design, there are a lot fo thign that need to be considered especially things like perserve and osbtacle geometries. When desiging intircate aprts that have many forces that could appleid in differnt direction, devloping the obstacle geometries and eprserve may end up tkaign logner then using traditional CAD modeling. Even if the deisgn seems to be satisfactory, there could be some asjutments to be made in the psot processing process in CAD which takes longer. Another draw abck would be the tiem ti takes fo rthe mdoel to finish gernating. 
+* this method of desing is very sueful if the deisgner is looing for differnt design methods with certian contraitns. it is also useful when aanalyzing forces to gnerate the design since ti ensures that the compenent wont fial. 
 
-**Assembly**
-* The easy assembly and utility were the major factors when designing this phone mount.
-  * Slide the clamp until the desired point on the handlebar. 
-  * Insert the adjuster screw from the top, then thread the adjuster knob for the bottom unit tight. 
-     * While doing this ensure the angle of the clamp platform (This angle determines the angle at which the phone is mounted).
-  * Thread the main stem down and the stem knob up until tight 
-     * Consider how far up or back the phone is when securing
-  * Finally slide the phone from the top until the desired position has been reached. 
-
-**Why PLA?**
-* This phone mount was completely made with PLA, Polylactic Acid. PLA is biodegradable and environmentally friendly, there is little to no environmental impact when it decomposes, unlike traditional plastic and rubber phone mounts. Another advantage of using PLA is low warpage and shrinkage which is necessary when designing threads and tolerances that hold delicate devices like phones. Further, PLA has great strength and rigidity ensuring the phone will not fall out and get damaged when hitting the trails. 
-
-
+**Pairing of Generative Design and SLS Printing**
+* Gernertive deisgn is suseful in aeruopsace palciation since ti saves time and money due due to reduced weight and amteiral suage. With these ebfits the final product has lwoer fuel consumption rate and hgiher durbality which enhances eprformace and safety. With less stress on the emchcnial compents there are lower reapir costs and less maintainece to be done. 
+* Gernative design  is used for aircraft wings, fuselages, jet engines and turbines optimized for weight, strength, and aerodynamics.
+* Unique pairing of powder bed fusion and generative
+design and their applications in either aerospace or automotive industries
 
 
 
