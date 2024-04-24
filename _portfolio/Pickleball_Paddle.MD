@@ -1,6 +1,6 @@
 ---
 title: "Pickleball Paddle with Ergonomic Grip"
-excerpt: "A Pickelball Paddle that  Won't lose You a Game "
+excerpt: "A Pickleball Paddle that'll Make You A Vet."
 header:
   image: /assets/img/PhoneMount1.png
   teaser: /assets/img/Phone Mount2.png
@@ -23,32 +23,29 @@ gallery:
 
 ---
 
-**What is Top-Down Modeling** 
-* Top-down modeling is a method in 3D design that utilizes creating a product from the highest level assembly. This means going from the overall design of the product and then developing the individual components around the overall design. This method ensures tight fit and function relative to the other parts. The overall design would be the design framework work which the smaller parts and their frameworks would interact with. It provides a holistic view of the product and guides the design process for its individual parts. 
-* This method also allows for exporting individual lower-level products with their sketches into different designs and models. These sketches can be altered within the different projects. This would then allow for different designs to have similar units from other projects that are not interconnected.  https://github.com/SauravB40/SauravBhattarai.github.io/blob/main/_portfolio/BikePhoneMount.MD
-* Advantages of this method include a broad view of the design of the product, allowing for greater analysis of how the individual parts within the design work together, and adjustments and changes can be quickly applied throughout the design.
-* Disadvantages of this method are the complexity when designing the individual unit, like being weary of actually working on the intended unit. Another disadvantage is unintentionally over-engineering parts. 
+**Pickleball**
+* Ever wanted to pick up pickleball due to the recent craze? Well, this is your time to outshine your friends and family with the Paddle that will leave them in awe. 
+* With this paddle you will never lose a game, even amateurs can outperform the vets. 
 
 
-**CAD Model of Bike phone Mount**
+**Design of the Paddle** 
+* Mass Balance: The paddle has a center of gravity towards the middle of the board allowing for maximum and efficient energy exchange. 
+* Weight: The actual paddle size is on the smaller size, yet the weight is above average allowing for agile yet powerful movement to catch opponents off guard. 
+  * Paddle is greater than 8.3 oz allowing for maximum power
+* Protection: The paddle comes with a TPU guard allowing for heavy-duty play. No need to worry about damage to the paddle with shock-absorbing TPU material
+* Grip: The paddle comes pre-installed with a high-performance grip allowing for perfect grip, letting you palm and fingers fit snuggle to the grips. 
+  **This increases agility and movement, your opponent won't know what happened. 
+
+
+**CAD Model of Paddle**
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e0233cdc690e06ee1?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-**Phone Mount Design**
-* This phone mount takes advantage of the function of a basic screw. Specifically, it uses a Two Screw approach for adaptability and flexibility. The main unit that holds the phone is a M20x2.5 threaded screw. The stem being a screw allows easy removal of the phone mount as well as easy rotation. Further, there is a knob underneath the clamp platform that allows for securing the rotation. Tightening this knob ensures the phone won't rotate and locks the position. The second screw, aka the adjuster (M10x1.5), allows for the loosening of the actual clamp. Loosening of the actual clamp allows for rotation of the mount for many viewing angles. 
 
-**Assembly**
-* The easy assembly and utility were the major factors when designing this phone mount.
-  * Slide the clamp until the desired point on the handlebar. 
-  * Insert the adjuster screw from the top, then thread the adjuster knob for the bottom unit tight. 
-     * While doing this ensure the angle of the clamp platform (This angle determines the angle at which the phone is mounted).
-  * Thread the main stem down and the stem knob up until tight 
-     * Consider how far up or back the phone is when securing
-  * Finally slide the phone from the top until the desired position has been reached. 
-
-**Why PLA?**
-* This phone mount was completely made with PLA, Polylactic Acid. PLA is biodegradable and environmentally friendly, there is little to no environmental impact when it decomposes, unlike traditional plastic and rubber phone mounts. Another advantage of using PLA is low warpage and shrinkage which is necessary when designing threads and tolerances that hold delicate devices like phones. Further, PLA has great strength and rigidity ensuring the phone will not fall out and get damaged when hitting the trails. 
-
+**Adherence to USA Pickleball Official Rulebook 2024**
+* Material: Paddle made from PLA and PTU, it is safe and nonprohibited
+* Surface: Smooth surface, that has no delamination, holes, cracks, rough textures, or indentations that break the paddle skin or surface, or any objects or features that allow a player to impart excessive spin on the ball
+* Size:  The combined length and width, are less than 24 inches (60.96 cm) and the paddle length is less than  17 inches (43.18 cm).
 
 
 
