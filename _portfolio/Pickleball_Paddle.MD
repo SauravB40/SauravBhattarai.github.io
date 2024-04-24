@@ -24,7 +24,7 @@ gallery:
 ---
 
 **Pickleball**
-* Ever wanted to pick up pickleball due to the recent craze? Well, this is your time to outshine your friends and family with the Paddle that will leave them in awe. 
+* Ever wanted to try pickleball because of the recent craze? Well, now's your chance to outshine your friends and family with a paddle that will leave them in awe.
 * With this paddle you will never lose a game, even amateurs can outperform the vets. 
 
 
