@@ -2,8 +2,9 @@
 title: "Generative Design SLS Truck Hanger"
 excerpt: "Heavy Duty, Rugged, All Purpose Skateboard Truck"
 header:
-  image: /assets/img/PhoneMount1.png
-  teaser: /assets/img/Phone Mount2.png
+  image: /assets/img/SKB.jpg
+  teaser: /assets/img/SKB.jpg
+
 
 
 
