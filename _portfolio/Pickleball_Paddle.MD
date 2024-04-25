@@ -2,24 +2,19 @@
 title: "Pickleball Paddle with Ergonomic Grip"
 excerpt: "A Pickleball Paddle that'll Make You A Vet."
 header:
-  image: /assets/img/PhoneMount1.png
-  teaser: /assets/img/Phone Mount2.png
+  image: /assets/img/PBPB1.jpg
+  teaser: /assets/img/PBPB1.jpg
 
 
 
 gallery:
-  - url: /assets/img/phoneMount0.JPG
-    image_path: /assets/img/phoneMount0.JPG
-  - url: /assets/img/Verticl.JPG
-    image_path: /assets/img/Verticl.JPG
-  - url: /assets/img/Upsidedown.PNG
-    image_path: /assets/img/Upsidedown.PNG
-  - url: /assets/img/Side Profiel Clamped.JPG
-    image_path: /assets/img/Side Profiel Clamped.JPG
-  - url: /assets/img/Side Profile Unclamped.JPG
-    image_path: /assets/img/Side Profile Unclamped.JPG
-  - url: /assets/img/SkaeTest.MOV
-    image_path: /assets/img/SkaeTest.MOV
+  - url: /assets/img/PBF.jpg
+    image_path: /assets/img/PBF.jpg
+  - url: /assets/img/Grip.JPG
+    image_path: /assets/img/Grip.JPG
+  - url: /assets/img/Withball.jpg
+    image_path: /assets/img/Withball.jpg
+
 
 ---
 
