@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/img/PhoneMount1.png
     title: "PLA iPhone 13 Bike Mount"
     excerpt: "Versatile Bike Phone Mount designed using Top-Down Modeling."
- - image_path: /assets/img/SKB.jpg
+  - image_path: /assets/img/SKB.jpg
     title: "Generative Design SLS Truck Hanger"
     excerpt: "Heavy Duty, Rugged, All Purpose Skateboard Truck"
   - image_path: /assets/img/PBPB1.jpg
