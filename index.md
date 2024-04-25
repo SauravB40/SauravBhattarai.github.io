@@ -25,7 +25,13 @@ feature_row:
     excerpt: "Industrial Pliers made on Dual Extrusion printer using TPU and PLA."
   - image_path: /assets/img/PhoneMount1.png
     title: "PLA iPhone 13 Bike Mount"
-    excerpt: "Versatile Bike Phone Mount designed using Top-Down Modeling." 
+    excerpt: "Versatile Bike Phone Mount designed using Top-Down Modeling."
+ - image_path: /assets/img/SKB.jpg
+    title: "Generative Design SLS Truck Hanger"
+    excerpt: "Heavy Duty, Rugged, All Purpose Skateboard Truck"
+  - image_path: /assets/img/PBPB1.jpg
+    title: "Pickleball Paddle with Ergonomic Grip"
+    excerpt: "A Pickleball Paddle that'll Make You A Vet."
 ---
 
 {% include feature_row %}
