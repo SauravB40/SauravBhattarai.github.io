@@ -9,18 +9,13 @@ header:
 
 
 gallery:
-  - url: /assets/img/phoneMount0.JPG
-    image_path: /assets/img/phoneMount0.JPG
-  - url: /assets/img/Verticl.JPG
-    image_path: /assets/img/Verticl.JPG
-  - url: /assets/img/Upsidedown.PNG
-    image_path: /assets/img/Upsidedown.PNG
-  - url: /assets/img/Side Profiel Clamped.JPG
-    image_path: /assets/img/Side Profiel Clamped.JPG
-  - url: /assets/img/Side Profile Unclamped.JPG
-    image_path: /assets/img/Side Profile Unclamped.JPG
-  - url: /assets/img/SkaeTest.MOV
-    image_path: /assets/img/SkaeTest.MOV
+  - url: /assets/img/DrawingTruck.png
+    image_path: /assets/img/DrawingTruck.png
+  - url: /assets/img/Render truck.jpg
+    image_path: /assets/img/Render truck.jpg
+  - url: /assets/img/Skateboard in Ation.mov
+    image_path: /assets/img/Skateboard in Ation.mov
+ 
 
 ---
 
@@ -36,7 +31,7 @@ gallery:
 * The main benefits of SLS printing include the ability to print complex designs since there is no dependency on the usage of supports. Further different geometries can be printed such as overhangs and underc cuts without additional processes. SLS technology is also known for having the ability to reuse unused powder. Usually, the ratio of unused to sued pellets is 70% to 30%. this not only reduces material usage but costs as well as barely giving up any mechanical strength. 
 
 **CAD Model of Generative Design Truck**
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e0233cdc690e06ee1?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eb43db03509130097?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 **More About Generative Design**
