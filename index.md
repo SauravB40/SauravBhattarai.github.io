@@ -12,7 +12,7 @@ excerpt: "Saurav Bhattarai is a dedicated Chemical and Biomolecular Engineering 
 feature_row:
   - image_path: /assets/img/Syringe Pump Github.JPG
     alt: "CNC Mill"
-    title: "Motorized Syringe Pump"
+    title: "[Motorized Syringe Pump](https://sauravb40.github.io/SauravBhattarai.github.io/portfolio/Syringe-Pump/)"
     excerpt: "Built for precise yet inexpensive method of fluid delivery for a medical setting."
   - image_path: /assets/img/Device bannerpng.png
     title: "Microfluidic Device"
