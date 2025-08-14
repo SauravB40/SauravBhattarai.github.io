@@ -13,8 +13,8 @@ feature_row:
   - image_path: /assets/img/Syringe Pump Github.JPG
     alt: "CNC Mill"
     title: "Motorized Syringe Pump"
+    title_url: "https://sauravb40.github.io/SauravBhattarai.github.io/portfolio/Syringe-Pump/"
     excerpt: "Built for precise yet inexpensive method of fluid delivery for a medical setting."
-    url: "https://sauravb40.github.io/SauravBhattarai.github.io/portfolio/Syringe-Pump/"
   - image_path: /assets/img/Device bannerpng.png
     title: "Microfluidic Device"
     excerpt: "A Microfluidic device that can be used for the analysis of biological components."
