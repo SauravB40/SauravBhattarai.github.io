@@ -18,7 +18,7 @@ feature_row:
     title: "<a href='https://sauravb40.github.io/SauravBhattarai.github.io/portfolio/Microfluidic-Device/'>Microfluidic Device</a>"
     excerpt: "A Microfluidic device that can be used for the analysis of biological components."
   - image_path: /assets/img/TPU Phoen Case1.jpg
-    title: "TPU iPhone 13 Case"
+    title: "TPU iPhone 13 Case - Anchor Down Edition"
     excerpt: "An iPhone 13 case that can withstand falls from Terminal Velocity."
   - image_path: /assets/img/DFL2.1.jpg
     title: "<a href='https://sauravb40.github.io/SauravBhattarai.github.io/portfolio/Multi-Material-Pliers/'>Print-in-Place Multi-Material Pliers</a>"
