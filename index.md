@@ -21,16 +21,16 @@ feature_row:
     title: "TPU iPhone 13 Case</a>"
     excerpt: "An iPhone 13 case that can withstand falls from Terminal Velocity."
   - image_path: /assets/img/DFL2.1.jpg
-    title: "Print-in-Place Multi-Material Pliers"
+    title: "<a href='https://sauravb40.github.io/SauravBhattarai.github.io/portfolio/Multi-Material-Pliers/'>Print-in-Place Multi-Material Pliers</a>"
     excerpt: "Industrial Pliers made on Dual Extrusion printer using TPU and PLA."
   - image_path: /assets/img/PhoneMount1.png
-    title: "PLA iPhone 13 Bike Mount"
+    title: "<a href='https://sauravb40.github.io/SauravBhattarai.github.io/portfolio/BikePhoneMount/'>PLA iPhone 13 Bike Mount</a>"
     excerpt: "Versatile Bike Phone Mount designed using Top-Down Modeling."
   - image_path: /assets/img/SKB.jpg
-    title: "Generative Design SLS Truck Hanger"
+    title: "<a href='https://sauravb40.github.io/SauravBhattarai.github.io/portfolio/Skateboard_Truck/'>Generative Design SLS Truck Hanger</a>"
     excerpt: "Heavy Duty, Rugged, All Purpose Skateboard Truck"
   - image_path: /assets/img/PBPB1.jpg
-    title: "Pickleball Paddle with Ergonomic Grip"
+    title: "<a href='https://sauravb40.github.io/SauravBhattarai.github.io/portfolio/Pickleball_Paddle/'>Pickleball Paddle with Ergonomic Grip</a>"
     excerpt: "A Pickleball Paddle that'll Make You A Vet."
 ---
 
